@@ -1,0 +1,18 @@
+<suite name="Demo Project Suite">
+
+<test name="Test1">
+<classes>
+	<class name="Test1"/>
+</classes>
+</test>
+
+
+<test name="Test2">
+<classes>
+	<class name="Test2"/>
+</classes>
+</test>
+
+
+
+</suite>
